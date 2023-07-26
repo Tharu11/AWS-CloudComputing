@@ -1,0 +1,24 @@
+S3 Bucket
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. 
+You need to type answers in the row indicated with “Ans”.
+
+
+How do I create S3 Static Website Hosting?
+https://youtu.be/JAaO2FMES14
+
+
+
+
+
+
+Q1 HOW TO CREATE A S3 STATIC WEBSITE?
+
+ANS To create a S3 static website create S3 bucket, host all the files in the bucket, create policy and paste it to block access permission, enable static web hosting.
+	
+
+Q2 How to enable website hosting?
+
+ANS To enable website hosting go to option, enable static website, add index.html and error.html page.

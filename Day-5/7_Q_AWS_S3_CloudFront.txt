@@ -1,0 +1,39 @@
+S3 Bucket
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. 
+You need to type answers in the row indicated with “Ans”.
+
+
+How do I work with AWS Cloud Front?
+https://youtu.be/Vr4N_ZA-uGo
+
+
+
+
+Q1 WHAT IS AWS CLOUD FRONT?
+
+ANS AWS cloud front is a globally-distributed network offered by AWS which securely delivers content to the end user with high speed transfer rate and low latency.
+	
+
+Q2 Why AWS cloud front is useful?
+
+ANS AWS cloud front is useful because it provides new content with globally access and latency issues solved.
+	
+
+Q3 What are the benefits of cloud front?
+ANS The benefits of cloud front are cost-effective, time saving, content privacy, highly programmable, geo-targeting, and quick content delivery.
+	
+
+Q4 How AWS could front delivers the content?
+
+ANS AWS cloud front delivers the content by client accessing website by typing URL, client might request to access object to download. AWS cloud front will connect nearest AWS server where file is stored.
+	
+
+Q5 List of companies using AWS cloudfront?
+ANS List of companies using AWS cloudfront are Jio Savan, Sky News, Discovery communication, Tv1EU and more.
+	
+
+Q6 How to create distribution using cloud front?
+ANS To create distribution using cloud front click create a distribution, choose delivery method, configure distribution settings.

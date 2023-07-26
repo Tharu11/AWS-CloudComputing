@@ -1,0 +1,20 @@
+S3 Bucket
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below. 
+You need to type answers in the row indicated with “Ans”.
+
+
+How tocreate S3 bucket versioningin AWS
+https://youtu.be/_tK5NotZfnQ
+
+
+Q1 WHAT IS OBJECT VERSIONING AND HOW IT IS USEFUL?
+
+ANS Object versioning helps with multiple variant of objects in the same bucket and can be used to preserve, retrieve, and restore every version of every object. It is useful because it is protected from unintended overwrites and deletion.
+	
+
+Q2 How to enable versioning using aws console?
+
+ANS To enable versioning using AWS console go to property, versioning, enable versioning.
