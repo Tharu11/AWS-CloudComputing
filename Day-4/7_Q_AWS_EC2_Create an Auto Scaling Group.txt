@@ -1,0 +1,32 @@
+EC2 
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+
+How do I create auto scaling groups?
+
+
+
+
+How do I create Auto Scaling Groups
+https://www.youtube.com/watch?v=rIQfLO8R-FE
+
+
+1 What you need to do first to create auto scaling group?
+Ans. First to create auto scaling group we need to configure launch configuration.
+	
+2 How to terminate instances?
+Ans. To terminate instance select instance, action, click terminate instance.
+	
+3 How to create launch configuration?
+Ans. To create launch configuration click on launch configuration, provide information, select IAM instance profile.
+	
+4 How to create auto scaling groups?
+Ans. To create auto scaling groups click auto scaling group, provide information, select launch configuration, select VPC, choose subnet, select load balancer, click health check, capacity, add notification, add name.

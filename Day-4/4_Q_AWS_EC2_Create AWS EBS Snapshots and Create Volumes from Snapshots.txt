@@ -1,0 +1,44 @@
+EC2
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+
+How do I create an EBS snapshot?
+
+
+
+
+How do I create EBS Snapshots Backup
+https://www.youtube.com/watch?v=d8pVb-sHZb8
+
+
+1 How to create EC2 instances?
+Ans. To create EC2 instances select server, EC2, launch instance, choose Operating system.
+	
+2 What is a key pair?
+Ans. Key pair means to connect or pair servers into encrypted form so it can’t be intercepted.
+	
+3 Which command we use to SSH into the instance?
+Ans. Command we use to SSH into the instance is ssh -i key_pair usename@Ip_address
+	
+4 How to create snapshots?
+Ans. To create snapshots go to the root device, click on EBSID, go to action, create a snapshot.
+	
+5 How to create volumes from snapshots?
+Ans. To create volumes from snapshots select volume instance, choose disk type SSD/HDD, set storage.
+	
+6 How to restore volume?
+Ans. To restore volume go to action, click attached volume, search available volume, paste device root directory.
+	
+7 How to start instances?
+Ans. To start instance select action, click start instance.
+	
+8 How to stop instances?
+Ans.To stop instances select action, click stop instances.
