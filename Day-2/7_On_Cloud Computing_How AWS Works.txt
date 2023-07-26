@@ -1,0 +1,46 @@
+Introduction to the AWS (Amazon Web Services)
+
+
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+How AWS Works | AWS Tutorial for Beginners By Linux Academy
+https://www.youtube.com/watch?v=qcY-uiEHhn0
+	
+Q1 What is amazon web service?
+Ans. Amazon web service is a cloud services provider which provides its users computing power, databases, analytics, storage, networking, security, developer tools, virtualization and more. 
+	
+
+Q2 Amazon Web Service is also known as?
+Ans. Amazon web service is also known as Infrastructure as a Service IaaS.
+	
+Q3 What things are offered by AWS?
+Ans. Things that are offered by AWS are computing power, databases, analytics, storage, networking, security, developer tools, virtualization and more. 
+	
+
+Q4 How you connect with the cloud?
+Ans. We connect with the cloud through the internet connection.
+	
+
+Q5 What are the common personal uses of the cloud service?
+Ans. The common personal uses of the cloud service are backups and sharing.
+	
+Q6 What do you mean by fault tolerant?
+Ans. Fault tolerant means that if there is a failure in the system and a file is saved in the cloud it will always be available for the user.
+	
+
+Q7 Why an Enterprises use cloud service?
+Ans. An Enterprises uses cloud service because it is cheaper compared to having on premise hardware and there are other benefits of not having a team to run them, no maintenance, scalability, elasticity and more.
+	
+
+Q8 What the term elasticity means?
+Ans. Elasticity means it can grow or shrink depending on the demand.
+	
+
+Q9 Difference between cloud and AWS.
+Ans. The difference between cloud and AWS is that cloud is just a computer that is somewhere else that we are using through the internet and AWS is a cloud service provider.
+	
+Q10 What are main cloud terms?
+Ans. Main cloud terms are high availability, fault tolerant, scalability, and elasticity.
+	________________

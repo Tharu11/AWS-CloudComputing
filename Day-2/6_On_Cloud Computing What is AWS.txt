@@ -1,0 +1,42 @@
+Introduction to the AWS (Amazon Web Services)
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+What is AWS? – By Amazon Web Services
+https://www.youtube.com/watch?v=mZ5H8sn_2ZI
+	
+Q1 What is Amazon Web Service?
+Ans. AWS or Amazon Web Services is a subsidiary of Amazon.com that provides on-demand cloud computing platforms to individuals, companies and governments, on a paid subscription basis with a free-tier option available for 12 months.
+
+Q2 What does AWS do?
+Ans. AWS helps businesses and their users have all the cloud service resources and users don’t have to worry about building all the hardwares like servers, routers, storage or networking. 
+	
+
+Q3 What are the features of AWS?
+Ans. As a feature of Cloud Computing, the moment your servers become slow, a new server is launched to take the extra burden, and return to normal state.
+	
+Q4 What are the tools in AWS?
+Ans. The tools in AWS are EC2 Service, RDS, VPC, Route 53, and Load Balancer.
+	
+
+Q5 What programming languages are used in AWS?
+Ans. Java and Python are the most common languages used in AWS.
+	
+
+Q6 What are the benefits of AWS?
+Ans The benefits of AWS are they are cost-effective, flexible, scalability, elasticity, secure and more.
+	
+Q7 How can you use Amazon web service?
+Ans You can use AWS through the internet and browser with login info and paying for the resources you are using.
+	
+Q8 When you are building applications for colleagues or consumers or for enterprise support What you can find with Amazon Web Services?
+Ans. When building applications for colleagues or consumers or for enterprise support we can find that as the number of users increase, and servers become slow AWS automatically adds new servers.
+	
+
+Q9 When you build your database driven application what things are important?
+Ans. When building a database driven application having servers running smoothly without any problems is very important.
+	
+Q10 How can it be easy to work with the data?
+Ans. It can be easy to work with the data in AWS because there is global infrastructure with 18 geographic regions and 50 availability zones and users can access AWS from anywhere.
+	________________

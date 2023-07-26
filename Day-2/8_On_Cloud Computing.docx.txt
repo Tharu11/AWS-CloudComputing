@@ -1,0 +1,46 @@
+Introduction to the AWS (Amazon Web Services)
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+Cloud Wars: Amazon (AWS) vs. Google (GCP) vs. Microsoft (Azure) by CBT Nuggets
+https://www.youtube.com/watch?v=342KEaxFVjM
+	
+
+Q1 How you build a cloud presence in Amazon AWS?
+Ans We build a cloud presence in Amazon AWS by picking a region, picking a availability zone, provisioning a server, configuring services, expanding to other availability zones, and expanding to other regions. 
+	
+Q2 What are the core principle you can run into AWS ?
+Ans The core principles we can run into AWS are scalability, reliability, cost efficiency, security and more.
+	
+
+Q3 What are the AWS services?
+Ans The AWS services are Cloud watch, simpleDB / DynamoDB, Elastic compute cloud (EC2), Simple storage service (S3), Elastic Block Store (EBS), Route S3, Virtual Private Cloud (VPC), Auto Scaling, CloudFormation, Identity and Access Management (IAM), Elastic Load Balancing (ELB).
+	
+
+Q4 What is the major service in AWS?
+Ans The major services in AWS are Elastic compute cloud (EC2), Simple storage service (S3), Elastic Block Store (EBS),  Auto Scaling.
+	
+
+Q5 EBS stands for?
+Ans EBS stands for Elastic Block Store (EBS).
+	
+
+Q6 What are the MS Azure products?
+Ans MS Azure products are Azure VMs, Azure App Services, Azure SQL, Azure Table, DocumentDB, Azure Active DIR and more.
+	
+
+Q7 What includes in google infrastructure?
+Ans In google infrastructure it includes App engine, compute engine, container engine, cloud storage, cloud SQL, cloud datastore and more. 
+	
+
+Q8 What are the Google Cloud Platform?
+Ans The Google cloud platform is computer, storage, big data, and app services.
+	
+
+Q9 Full form of Azure VMs.
+Ans Full form of Azure VMs is Azure Virtual Machines.
+
+Q10 Briefly explain the cloud computing v/s traditional design.
+Ans The cloud computing and traditional design are different in many ways with traditional design we need upfront cost for the hardwares, management staff, security, cooling system, network and more. With cloud computing user’s can pay for all the services they want to use from a cloud service provider as pay as you go and not worry about all the thighs that are in traditional design.
+	________________
