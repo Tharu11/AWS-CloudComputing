@@ -1,0 +1,67 @@
+VPC
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+
+
+What to create internet gateways?
+ 
+How do I create Internet gateway
+https://www.youtube.com/watch?v=tD9vDv0uyI8
+
+
+1 What is VPC?
+Ans. Virtual Private Cloud VPC is a virtual network environment which lets us launch AWS resources like instances, databases, load balancer and more.
+	
+2 VPC stands for?
+Ans. VPC stands for Virtual Private Cloud.
+	
+
+3 How to create VPC?
+Ans. To create VPC in the dashboard look for VPC and click on start VPC and type name and CIDR block and the tendency.
+	
+
+4 How calculate IP address range?
+Ans. To calculate IP address range look for IP address and if you see 10.0.0.0/26 then starting will be 10.0.0.0 and if we want to find how many IP address there are we can calculate with (2 ^ 32 - 26 = 2 ^ 6) so 64 IP addresses End = 10.0.0.63.
+	
+5 How to create subnets?
+Ans. To create subnets look for subnet and select create subnet, put name, VPC, availability zone, CIDR block.
+	
+
+6 How to create public/private route table?
+Ans. To create a public/private route table select the public route table, give name to public route table, select a VPC name.
+	
+7 How to create internet gateways?
+Ans. To create internet gateways find internet gateway, click on internet gateway, give name to internet gateway tag.
+	
+8 What are internet gateways?
+Ans. Internet gateways can be seen as horizontally scaled, highly available gateway that allows communication between instances with our VPC and the internet.
+	
+
+9 How to attach internet gateways to VPC?
+Ans. To attach internet gateways to VPC click on action, click on attach to VPC, select VPC gateway name.
+	
+10 How to create NAT gateways?
+Ans. To create NAT gateways select create a NAT gateway, select a subnet, allocate a IP address.
+	
+11 In which subnet you need to keep NAT gateways always?
+Ans. In the Public subnet we need to keep NAT gateways.
+	
+
+12 What is the use of NAT gateways?
+Ans. The use of NAT gateways is to provide internet access to instances in private subnets within a VPC. 
+	
+13 NAT gateway stands for
+Ans. NAT gateway stands for Network Address Translation.
+	
+
+14 How to start auto modify auto-assign IP setting?
+Ans. To start auto modify auto-assign IP setting go to subnet, action tab, click on modify auto design IP settings, select IPv4 checkbox and save.
+	
+
+15 How to attach public/private subnet to route table?
+Ans. To attach public/private subnet to route table select public route table, give name to the table, select a VPC name.

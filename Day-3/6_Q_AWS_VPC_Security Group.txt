@@ -1,0 +1,32 @@
+VPC
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+
+
+
+
+What are security groups?
+
+
+How do I create Security Groups
+https://www.youtube.com/watch?v=nA3yN76cNxo
+
+
+1 What are security groups?
+Ans. Security groups are fundamental to network security; it allows the network traffic in and out of EC2 machines.
+	
+2 What are inbound rules?
+Ans. Inbound rules can be seen as network traffic coming from the internet to EC2 servers.
+	
+3 What are outbound rules?
+Ans. Outbound rules can be seen as network traffic that’s going from EC2 to the internet.
+	
+4 How to create security groups?
+Ans. To create security groups select network, security, select create security group.

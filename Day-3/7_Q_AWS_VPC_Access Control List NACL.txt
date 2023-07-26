@@ -1,0 +1,49 @@
+VPC
+
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+
+
+What is NACL?
+
+
+How do I create Network ACL
+https://www.youtube.com/watch?v=tLAgYQlMWGo
+
+
+1 What is network ACL/ NACL?
+Ans. Network ACL/NACL is an optional layer of security for our PC that acts as firewall controlling traffic in and out with one or more subnets.
+	
+2 Is NACL operates at the subnet level?
+Ans. TRUE
+	
+3 Is NACL supports for both allow and deny rules?
+Ans. TRUE
+	
+4 Is NACL stateless?
+Ans. TRUE
+	
+5 Is NACL process rules in number order when deciding whether to allow traffic?
+Ans. TURE
+	
+6 Which number gets the first priority?
+Ans. Number that gets the first priority depends on the sorting number or least number.
+	
+
+7 Is NACL apply on subnets and all instances under the same subnet?
+Ans. TURE.
+	
+8 Which default network ACL created  for VPC?
+Ans. Default network ACL created for VPC are rule number 100 all traffic, all protocol, source allows 0.0.0.0 allow and * all traffic, all protocol, source 0.0.0.0 deny.
+	
+9 Is rule “100” and “*” are outbound? 
+Ans. TRUE
+	
+10 What are the differences between security groups and NACL?
+Ans. The differences between security groups and NACl are security group secure at instance level and NACL secure at subnet level.
