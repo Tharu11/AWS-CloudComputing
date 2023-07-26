@@ -1,0 +1,37 @@
+Introduction to the CLOUD COMPUTING 
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to YouTube where you can watch the concerned video.
+You are required to watch the video and draft a minimum 10 meaningful Questions having Single Word / Single Line answers for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+Cloud Computing Overview by Technology Profession
+https://www.youtube.com/watch?v=C0RKwxpgYSs
+	
+Q1 What does cloud computing do?
+Ans Cloud computing encompasses a variety of computing concepts that connect a large number of computers to a real-time communications network.
+	
+Q2 Can we say the internet and cloud computing are synonymous.
+Ans Yes, the internet and cloud computing are synonymous, with the exception of private Cloud networks.
+	
+Q3 What are three most common cloud offerings?
+Ans Three most common cloud offerings are Infrastructure as a Service IaaS, Platform as a Service PaaS, and Software as a Service SaaS.
+	
+Q4 When you store your documents and files online using BOX or Google, it is an example of which cloud offering?
+Ans When we store our documents and files online using BOX or Google, it is an example of Infrastructure as a Service IaaS.
+	
+Q5 What are the core benefits of cloud computing?
+Ans The core benefits of cloud computing are cost savings, elasticity, scalability, dynamically adjusts to load bursts, and storage on demand.
+	
+Q6 Write down some benefits of cloud computing from a business point of view.
+Ans Some benefits of cloud computing from a business point of view are more flexibility to get into new businesses, smooth mergers and acquisitions, ability to duplicate or adapt successful business processes, allows IT leadership to focus on the business rather than maintenance, and optimizes the communication of business processes.
+	
+Q7 Is cloud computing flexible?
+Ans Yes, cloud computing is more flexible and easy to get into business. If someone is trying to start up a company they don’t have to buy any physical hardware it can all be done in clouds.
+	
+Q8 On which thing an individual get access through cloud offerings?
+Ans An individual can get access through cloud offerings by having access to the internet and a browser and can get into clouds by using cloud service providers services such as AWS, Google cloud  and MS Azure by paying for the subscription for the service. 
+	
+Q9 Can We Leverage Software as a Service anytime?
+Ans We can leverage Software as a Service anything we use a software application that is accessed via a browser versus a program on our computer.
+	
+Q10 What happens when an individual has a cloud offering?
+Ans When an individual has a cloud offering they have access to all the hardware, servers, routers, storage, network and other services.

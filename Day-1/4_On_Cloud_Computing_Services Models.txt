@@ -1,0 +1,41 @@
+Introduction to the CLOUD COMPUTING 
+To watch each video you need to right click on the Hyperlink just below the highlighted task in red color and select the Open Hyperlink option… it will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and draft minimum 10 meaningful Questions having Single Word / Single Line answer for it. You need to type in the Answer in the next now indicated with “Ans”
+
+
+
+
+Cloud Computing Services Models - IaaS PaaS SaaS Explained ByEcourse Review
+https://www.youtube.com/watch?v=36zducUX16w
+	
+Q1 Explain the concept of cloud computing.
+Ans The concept of cloud computing is a paradigm that allows on-demand network access to share computing resources. A model for managing, storing and processing data online via the internet.
+	
+Q2 Explain the characteristics of cloud computing.
+Ans The characteristics of cloud computing are on demand service (you use it when you need it), network access (Uses internet as a medium), shared resources (resources are pooled together | Used by multiple clients), scalability (allows elasticity of resources).
+	
+Q3 Explain shared resources as a feature of cloud computing.
+Ans Shared resources as a feature of cloud computing means resources are pooled together and are used by multiple clients.
+	
+Q4 Can cloud computing be used by multiple clients?
+Ans Yes, cloud computing can be used by multiple clients by sharing the resources available.
+	
+Q5 What are the three delivery models of cloud computing?
+Ans The three delivery models of cloud computing are SaaS Software as a Service, PaaS Platform as a Service, and IaaS Infrastructure as a Service.
+	
+Q6 Write advantages and disadvantages of Saas.
+Ans The advantages of SaaS are Universally accessible from any platform, No need to commute, you can work from anyplace, Excellent from collaborative working, vender provides modest software tools, and Allows for multi-tenancy.
+The disadvantages of SaaS are Portability and BrowsweIssues, Internet performance may dictate overall performance, Compliance restrictions.
+	
+Q7 Explain the model of cloud computing i.e. PaaS.
+Ans The model of cloud computing i.e. PaaS is you manage data and the application resources; all other resources are managed by the vendor.
+	
+Q8 Who uses SaaS, PaaS and IaaS?
+Ans SaaS is used by End customers, PaaS is used by Developers, and IaaS is used by SysAdmins.
+	
+Q9 What are the advantages of PaaS and IaaS?
+Ans The advantages of PaaS are Cost effective rapid development (it’s scalable), Faster market for developers, Easy deployment of web applications, Private or public deployment is possible.
+The advantage of IaaS is the cloud provides the infrastructure, enhanced scalability - dynamic workloads are supported, and IaaS is flexible. 
+	
+Q10 Write down some examples of companies that provide cloud computing.
+Ans Some examples of companies that provide cloud computing are AWS, Icloud, Microsoft Azure, Google Cloud, IBM smart cloud.
